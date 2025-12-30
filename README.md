@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music, Data Analysis, Machine Learning, Big Data Analysis & Deep Learning.
 - 📊 I’m currently learning Deep Learning and Advanced Data Analysis.
 - 💞️ I’m looking to collaborate on my ongoing projects. I will honor your comment/suggestion to further improve my models including my github repository.
-- 📫 How to reach me in my LinkedIn Account www.linkedin.com/in/kenneth-medes-6b7247259
+- 📫 Reach me in my LinkedIn Account www.linkedin.com/in/kenneth-medes-6b7247259
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a previous Civil Engineer by profession 👷‍♂️.
 - 💻 I'm a certified Pythonista!
